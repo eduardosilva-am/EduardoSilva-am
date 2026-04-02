@@ -2,7 +2,7 @@
 💻
 **`Analista de Sistema e Suporte de Ti`**
 
-Me chamo Eduardo Silva, sou natural de Manaus. Bacharelado em Ciência da Computação na Uninorte, tenho o curso de técnico em informática, curso de administrador em redes Linux e Windows, curso onde abrange a criação de automação por IA - Anthropic Academy (https://www.anthropic.com/learn), Virtualização, Desenvolvimento, Firewall, VPN e afins no S.O Linux, que é um sistema onde oferece uma variedades de ferramentas.
+Me chamo Eduardo Silva, sou natural de Manaus. Bacharelado em Ciência da Computação pela Faculdade Uninorte, tenho o curso de técnico em informática, curso de administrador em redes Linux e Windows, curso onde abrange a criação de automação por IA - Anthropic Academy (https://www.anthropic.com/learn), Virtualização, Desenvolvimento, Firewall, VPN e afins no S.O Linux, que é um sistema onde oferece uma variedades de ferramentas.
 
 ---
 
